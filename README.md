@@ -1,4 +1,4 @@
-# gridcomposer
+# grid composer
 
 a monome grid-powered MIDI Generator for Ableton Live 12
 
