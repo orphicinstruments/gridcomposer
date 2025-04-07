@@ -20,7 +20,8 @@ inspired by the rich history of grid-based sequencers, including plane, kria, an
 
 ## installation
 - download the amxd file in this repository and place it within Live's searchable file path
-  -  for example, create a folder in the User Library named Grid Composer, and place this file in there
+  -  new installations of Live 12 will create a MIDI Tools folder, with a Max Generators subdirectory
+  -  alternatively, create a folder in the User Library named Grid Composer, and place this file in there
 
 ## documentation
 grid composer features an interactive reference document built into the device, with multiple pages displayed when different modifier keys are held on the grid
