@@ -15,7 +15,7 @@ inspired by the rich history of grid-based sequencers, including plane, kria, an
 ## requirements
 - Ableton Live 12 Suite, or Standard + Max For Live
 - Max 8.6.1 or higher
-- 128-sized monome grid, varibright LEDs required
+- 128- or 256-sized monome grid, varibright LEDs required
 - [serialosc installed](https://monome.org/docs/serialosc/setup/)
 
 ## installation
